@@ -1,4 +1,5 @@
-![GitHub Logo](https://github.com/ntnmnk/GeektrustBackend_RideSharing/raw/master/Geektrust.png)
+
+![Geektrust](https://github.com/ntnmnk/GeektrustBackend_RideSharing/assets/40004661/66676f9d-1523-40e6-be21-a312a46f46b9)
 # Pre-requisites
 * Java 1.8/1.11/1.15
 * Gradle 6
