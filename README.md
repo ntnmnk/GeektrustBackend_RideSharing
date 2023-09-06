@@ -1,4 +1,4 @@
-
+![Alt Text](https://github.com/ntnmnk/GeektrustBackend_RideSharing/raw/main/path/to/your/geektrust.png)
 # Pre-requisites
 * Java 1.8/1.11/1.15
 * Gradle 6
