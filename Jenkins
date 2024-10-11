@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Use the correct branch name for your repository
-                git branch: 'main', url: 'https://github.com/ntnmnk/learningManagementSystem.git'
+                git branch: 'main', url: 'https://github.com/ntnmnk/GeektrustBackend_RideSharing.git'
             }
         }
 
